@@ -1,10 +1,10 @@
 <div align="center">
 
 # ⚡ Khan Umar (`RizzyCoder19`)
-### Data Science Scholar & Full-Stack Systems Engineer
+### Data Science Student & Full-Stack Systems Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Khan+Umar;B.Sc.+Data+Science+Scholar+%40+University+of+Mumbai;Epidemiological+Modeling+%26+Non-Parametric+Stats;Modern+Web+Architecture+%7C+Next.js+16+%7C+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Khan+Umar; B.Sc.+Data+Science+Stuedent+%40+University+of+Mumbai;Epidemiological+Modeling+%26+Non-Parametric+Stats;Modern+Web+Architecture+%7C+Next.js+16+%7C+TypeScript" alt="Typing SVG" />
 </p>
 
 [![Live Research Portal](https://img.shields.io/badge/Flagship%20Research-fieldprojects.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://fieldprojects.vercel.app)
@@ -18,7 +18,7 @@
 
 ## 🌌 About Me
 
-I am a **Data Science Scholar** at **RP Institute (Affiliated to the University of Mumbai)** operating at the intersection of **statistical computing, applied epidemiology, and modern web architecture**.
+I am a **Data Science Student** at **RP Institute (Affiliated to the University of Mumbai)** operating at the intersection of **statistical computing, applied epidemiology, and modern web architecture**.
 
 My work bridges the gap between raw, messy real-world datasets and intuitive digital experiences. Whether mathematically decomposing multi-year government disease surveillance (NCDC/IDSP) through non-parametric rank concordance (**Kendall's $W$**) or engineering low-latency interactive visualizations with **Next.js 16 (Turbopack)** and **TypeScript**, I build end-to-end systems with high rigor and aesthetic precision.
 
